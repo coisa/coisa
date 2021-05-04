@@ -6,7 +6,7 @@ I'm a Sr. Software Engineer, Open Source evangelist and Software Career Mentor.
 
 🚀 I help people to accelerate their career in software development.<br />
 😎 For those looking for the most desired profile in the market.<br />
-☕ ️Worked more than 16 years in the Software Development area with a variaty of project scopes.
+☕ ️Worked more than 16 years in the Software Development area with a variety of project scopes.
 
 - [📸 Instagram](https://instagram.com/mentordosdevs)
 - [💼 LinkedIn](https://www.linkedin.com/in/felipesla)
