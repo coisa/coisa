@@ -9,8 +9,8 @@ I'm a Tech Lead, Software Engineer, Developers Mentor, Open Source evangelist an
 ☕ ️Worked more than 16 years in the Software Development area with a variety of project scopes.<br />
 👔 Current acting as a Tech Lead Engineer at Remessa Online powered by BeeTech.
 
-- [📸 See more content on my Instagram](https://instagram.com/mentordosdevs)
-- [💼 Reach me on my LinkeIn](https://www.linkedin.com/in/felipesla)
+- [📸 See more content on my Instagram](http://mentor.dev.br/insta)
+- [💼 Reach me on my LinkeIn](http://mentor.dev.br/linkedin)
 - [📲 Check it out my other links](http://mentor.dev.br/links)
 ___
 [![CoiSA's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coisa&hide=contribs&line_height=24&custom_title=CoiSA's%20GitHub%20Stats&count_private=true&include_all_commits=true&show_icons=true&theme=nord)](https://github.com/coisa)
