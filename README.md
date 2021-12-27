@@ -8,7 +8,7 @@ I will support and encourage you to manage your learning to maximize your career
 
 Follow my links if you want to be my next mentee and optimize your learning skills and results.
 
-- [📸 See more content on my Instagram](http://mentor.dev.br/insta)
+- [📸 See more content on my Instagram](http://mentor.dev.br/insta) (Brazilian Portuguese)
 - [💼 Reach me on my LinkeIn](http://mentor.dev.br/linkedin)
 - [📲 Check it out my other links](http://mentor.dev.br/links)
 ___
