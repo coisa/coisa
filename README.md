@@ -2,12 +2,11 @@
 
 Hi, I'm Felipe Sayão Lobato Abreu (aka. CoiSA).
 
-I'm a Tech Lead, Software Engineer, Developers Mentor, Open Source evangelist and weekend library creator.
+I'm a software engineer, leader, career mentor, open-source evangelist, and weekend library creator.
 
-🚀 I help people upgrade their career as a developer with lightness and security.<br />
-😎 For those who want to be the most desired profile in the market.<br />
-☕ ️Worked more than 16 years in the Software Development area with a variety of project scopes.<br />
-👔 Current acting as a Tech Lead Engineer at Remessa Online powered by BeeTech.
+I will support and encourage you to manage your learning to maximize your career, develop your skills, improve your performance, and become the professional you want to be.
+
+Follow my links if you want to be my next mentee and optimize your learning skills and results.
 
 - [📸 See more content on my Instagram](http://mentor.dev.br/insta)
 - [💼 Reach me on my LinkeIn](http://mentor.dev.br/linkedin)
