@@ -1,6 +1,6 @@
 ### Hi there! 👋🏻
 
-Hi, I'm Felipe Sayão Lobato Abreu (aka. CoiSA).
+Hi, I'm Felipe Sayão Lobato Abreu (aka. Mentor dos Nerds).
 
 I'm a software engineer, leader, career mentor, open-source evangelist, and weekend library creator.
 
