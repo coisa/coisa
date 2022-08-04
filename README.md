@@ -1,3 +1,7 @@
+<image src="https://media-exp1.licdn.com/dms/image/C4D16AQGCYEBGsn6tAA/profile-displaybackgroundimage-shrink_200_800/0/1659408884355?e=1665014400&v=beta&t=telcjIUWM5uHx-_kxwo8VDiX7pMhTlLJBv2lN9gPeuM" alt="Mentor dos Nerds" style="width: 100%" />
+
+___
+
 ### Hi there! 👋🏻
 
 Hi, I'm Felipe Sayão Lobato Abreu (aka. Mentor dos Nerds).
@@ -8,9 +12,8 @@ I will support and encourage you to manage your learning to maximize your career
 
 Follow my links if you want to be my next mentee and optimize your learning skills and results.
 
-- [📸 See more content on my Instagram](http://mentor.dev.br/insta) (Brazilian Portuguese)
+- [📸 See more content on my Instagram](http://mentor.dev.br/) (Brazilian Portuguese)
 - [💼 Reach me on my LinkeIn](http://mentor.dev.br/linkedin)
-- [📲 Check it out my other links](http://mentor.dev.br/links)
 ___
 [![CoiSA's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coisa&hide=contribs&line_height=24&custom_title=CoiSA's%20GitHub%20Stats&count_private=true&include_all_commits=true&show_icons=true&theme=nord)](https://github.com/coisa)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coisa&layout=compact&theme=nord)](https://github.com/coisa)
