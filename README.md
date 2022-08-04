@@ -1,5 +1,10 @@
 <image src="https://media-exp1.licdn.com/dms/image/C4D16AQGCYEBGsn6tAA/profile-displaybackgroundimage-shrink_200_800/0/1659408884355?e=1665014400&v=beta&t=telcjIUWM5uHx-_kxwo8VDiX7pMhTlLJBv2lN9gPeuM" alt="Mentor dos Nerds" style="width: 100%" />
 
+<!-- visitor counter -->
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/coisa/count.svg" />
+</p>
+
 ___
 
 ### Hi there! 👋🏻
