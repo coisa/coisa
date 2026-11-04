@@ -59,7 +59,7 @@ Trabalho na interseção entre arquitetura de software, automação com IA e lid
 
 Construo em público no GitHub desde 2010. Os troféus abaixo destacam apenas os indicadores com ranks altos ou raros; a atividade detalhada permanece disponível logo depois dos projetos.
 
-[![Troféus de Felipe Abreu no GitHub](https://trophy.ryglcloud.net/?username=coisa&theme=nord&column=6&margin-w=8&no-frame=true&no-bg=true&rank=-B,-C,-?)](https://github.com/coisa)
+[![Troféus de Felipe Abreu no GitHub](https://trophy.ryglcloud.net/?username=artificenerd&theme=nord&column=6&margin-w=8&no-frame=true&no-bg=true&rank=-B,-C,-?)](https://github.com/artificenerd)
 
 ## Engenharia aberta
 
